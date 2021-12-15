@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Medical_video_\\Medical_video_\\Medical_video_.csproj": {}
+    "C:\\Users\\User\\Mishkina_11-010\\Medical_video_\\Medical_video_\\Medical_video_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Medical_video_\\Medical_video_\\Medical_video_.csproj": {
+    "C:\\Users\\User\\Mishkina_11-010\\Medical_video_\\Medical_video_\\Medical_video_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Medical_video_\\Medical_video_\\Medical_video_.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Mishkina_11-010\\Medical_video_\\Medical_video_\\Medical_video_.csproj",
         "projectName": "Medical_video_",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Medical_video_\\Medical_video_\\Medical_video_.csproj",
+        "projectPath": "C:\\Users\\User\\Mishkina_11-010\\Medical_video_\\Medical_video_\\Medical_video_.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Medical_video_\\Medical_video_\\obj\\",
+        "outputPath": "C:\\Users\\User\\Mishkina_11-010\\Medical_video_\\Medical_video_\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
